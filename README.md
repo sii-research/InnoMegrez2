@@ -44,7 +44,7 @@ InnoMegrez2-Preview is a device native large language model. Megrez2 takes advan
 | **Number of Shared Experts** | 4 |
 | **Vocabulary Size** | 128,880 |
 | **Context Length** | 32K |
-| **Base Frequency of RoPE** | 1,000,000 |
+| **Base Frequency of RoPE** | 5,000,000 |
 | **Attention Mechanism** | GQA |
 | **Activation Function** | SwiGLU |
 </div>
